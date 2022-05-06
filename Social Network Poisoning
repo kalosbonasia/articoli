@@ -1,0 +1,44 @@
+Con il termine Social Network Poisoning si intende l’effetto prodotto dall’applicazione di metodiche volte a rendere inaffidabili le conoscenze relative ad un profilo e alle relazioni ad esso afferenti. L’applicazione su larga scala di attacchi di questo genere potrebbe portale al crollo delle piattaforme di Social Networking inficiandone la valenza ai fini commerciali, oltre che l’utilità in termini di conoscenza e correlazione sui dati forniti dagli utenti.
+
+Introduzione
+
+Alla stessa maniera delle “route poisoning” (che interessano le reti di telecomunicazione), le “poisoning action” sono condotte con l’obiettivo di inquinare i contenuti presenti all’interno delle reti sociali tipicamente introducendo profili artefatti e relazioni inesistenti tra questi ultimi e quelli reali rendendo di fatto inaffidabili le informazioni.
+
+Il risultato conseguente è la rottura della catena di fiducia sulla quale si fondano tutte le reti sociali; allo scopo di non consentire a motori di ricerca appositamente sviluppati di recuperare informazioni di ogni genere relative ad un particolare profilo.
+
+Tassonomia
+
+Partendo dall’assunto che in Internet ed in particolare all’interno dei Social Network manca una gestione coerente e sicura dell’Identità digitale, è possibile introdurre i principali strumenti di poisoning attualmente praticabili ed ipotizzarne di nuovi in uno scenario futuro:
+
+Strumenti attuali:
+1. sostituzione di identità, ovvero la possibilità di impersonare un altro utente per gli scopi più vari dall’intelligence al social engineering;
+
+2. simulazione di identità, la creazione di un falso profilo, che non corrisponde ad alcuna persona esistente, per fini malevoli o semplicemente per mantenere l’anonimato;
+
+3. profile fuzzing, l’introduzione volontaria di elementi falsi e/o non congrui nel proprio profilo per ingannare i sistemi di intelligence, impedire attività di OSINT o per altre forme di vantaggio personale;
+
+4. Social graph fuzzing, l’associazione intenzionale a gruppi e persone che non hanno a che fare con i propri interessi e relazioni con l’intento di introdurre “rumore” nel proprio grafo sociale.
+
+Strumenti futuri:
+
+1. personae / social bots, creazione di un numero considerevole di profili falsi (e.g. milioni di falsi profili) gestiti da macchine, capaci di interagire tra loro e con utenti reali in modalità verosimile, modificando così il “sentiment” e la “conversation” su larga scala oltre ad alterare tutti i social graph e ad impedire correlations sensate sui dati;
+
+2. black curation, l’utilizzo di utenze reali “bucate” o fittizie per intervenire su argomenti dei quali si vuole modificare il senso, o per crearne di nuovi ad-hoc, in analogia al black SEO (Search engine optimization) già in uso sui motori di ricerca.
+
+Bibliografia
+
+- Kevin D. Mitnick, L’arte dell’inganno. I consigli dell’hacker più famoso del mondo, Feltrinelli Editore (2005), ISBN8807818418
+- Ian Mann, Hacking the human: social engineering techniques and security countermeasures, Gower Publishing, Ltd. (2008), ISBN0566087731
+- Teri Bidwell, Michael Cross, Ryan Russell, Hack Proofing Your Identity in the Information Age, Syngress (2002), ISBN1931836515
+
+Note
+
+Questa è la versione originale (compresa degli errori che ho lasciato così com’erano…) della voce che attualmente trovate su Wikipedia qui: https://it.wikipedia.org/wiki/Social_network_poisoning che nel tempo è stata revisionata sia da esperti del calibro di Piergluigi Paganini (https://www.linkedin.com/in/pierluigipaganini/ ) che da “sconosciuti sceriffi” di Wikipedia. Ci tengo a precisarlo di nuovo, la voce nasce da questo testo, che è mio, non viceversa, ergo, amici sceriffi di Wikipedia, rassegnatevi. Su Wikipedia ho scritto anche di altro, prima che gli “sceriffi” incompetenti mi facessero passare la voglia:
+- https://it.wikipedia.org/wiki/EGNOS
+- https://it.wikipedia.org/wiki/COSPAS-SARSAT
+- https://it.wikipedia.org/wiki/Deposizione_chimica_da_fase_vapore_del_diamante (in origine era “semiconduttori a pellicola di diamante)
+- https://it.wikipedia.org/wiki/Intelligence
+
+Perché riporto questo articolo? Per tenere traccia di un ricordo mio personale e di altre “cose di cui mi sono occupato” nel passato che non riporto sul mio CV ufficiale.
+
+#intelligentipauca
