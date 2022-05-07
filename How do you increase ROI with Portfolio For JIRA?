@@ -1,0 +1,26 @@
+The Agile organization of work involves: teams of developers, product managers, stakeholders. Everyone has different project management needs, and the larger the organization, the greater the need to adopt “best practices” in project management.
+
+For years, Atlassian has been providing industry-favorite SDLC tools such as JIRA and Confluence to improve team collaboration and visibility.
+With Portfolio For JIRA, you can monitor product releases in real time and analyze resource usage with a single tool that centralizes information and allows you to “smell the wind” to determine the best course for reliable delivery. I was recently asked by a client, “how do you increase ROI with Portfolio For JIRA?”
+
+Let’s start with the “initiatives”. Experienced JIRA users know that it pays to use Epics to collect User Stories from multiple activities under a larger project heading, but in Portfolio For JIRA you can expand your “business narrative” with Initiatives. An initiative aligns epics and corresponding user stories to tie all the pieces of your business processes together.
+
+Let me explain briefly: Initiatives are used to give each team a vision for their part of the story. The actions of each team in JIRA report in Portfolio For JIRA information then offered to project managers and other stakeholders an accurate overview of how the initiative is developing to ensure timely delivery of the product. 
+
+Before adopting Portfolio For JIRA you probably had to hold countless meetings with teams to convey the vision and goals of the initiative. Once you switch to Portfolio For JIRA, however, the initiative’s simplified Epics and Stories will automatically provide the information to keep your teams aligned with a single, shared vision and goals. 
+
+The other typical question I get from a number of clients is: “How do I know who has time to work on the project? Who has the required skills?”. Finding the answers to these questions usually takes a lot of time, which could be better spent advancing the project. Now with Portfolio For JIRA it is easy to identify resources based on availability and skill set to assign the right person to the right job.
+
+You won’t have to “guess” if an assigned developer has UI/UX experience, for example, but just check with Portfolio For JIRA. Not only can you find the perfect person for the job by filtering searches for specific skills, but you can view their availability to determine if they have the operational capability for the project. Finally, estimates: “how long will it take these team members to complete their assignments?”.
+
+With Portfolio For JIRA, resources gain the ability to project the time it will take to get the job done, documenting these estimates in Portfolio. Project managers can then use the percentage of work split between teams to get a more accurate and up-to-date view of project execution time.
+
+The “toolbox” available facilitates the job of producing reports, the joy and pain of every Project Manager. Everyone involved will have a kind of central dashboard from which they can get information on the progress of the project. Whether you use Kanban or Scrum, it makes no difference to Portfolio For JIRA. If you need continuous programming skills in Portfolio For JIRA you will find everything you need to apply Kanban, moving on to the next phase once the previous task has been completed and closed.
+
+Ditto for Scrum, with its typical “time boxed” iterations. Whatever the situation Portfolio For JIRA provides a project planning tool that fits into any process methodology in your organisation. Perhaps the most interesting feature of Portfolio For JIRA is its real-time planning and forecasting capability.
+
+Something that users of Atlassian products are used to by now but the latest version of Portfolio For JIRA takes it a step further by allowing administrators to plan time based on resources, dependencies and completion of iterations.
+
+Need to invest more time in pre-release testing? Just update the date fields and the project tracking timeline adjusts to reschedule the release date accordingly. How much time could you gain by adding an additional resource to a phase? There is no need for guesswork: just add the resource and Portfolio For JIRA will show you, based on the availability and role of the resource, the new timeline reflecting the expected contribution of the new team member.
+
+Before Portfolio For JIRA you had to “guess” deadlines and make partially informed decisions. Now, with the “what if” feature, you can explore different scenarios to determine the best course of action. As usual, I will conclude with a book to explore the topic further: “The Standard for Portfolio Management” (here on Amazon: https://amzn.to/3MWnRMP). And also I suggest to read "Whats the real ROI of Agile" (https://medium.com/practical-delivery/whats-the-real-roi-of-agile-76401e10d06).
