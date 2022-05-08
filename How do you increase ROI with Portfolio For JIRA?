@@ -4,6 +4,8 @@ For years, Atlassian has been providing industry-favorite SDLC tools such as JIR
 
 Let’s start with the “initiatives”. Experienced JIRA users know that it pays to use Epics to collect User Stories from multiple activities under a larger project heading, but in Portfolio For JIRA you can expand your “business narrative” with Initiatives. An initiative aligns epics and corresponding user stories to tie all the pieces of your business processes together.
 
+
+
 Let me explain briefly: Initiatives are used to give each team a vision for their part of the story. The actions of each team in JIRA report in Portfolio For JIRA information then offered to project managers and other stakeholders an accurate overview of how the initiative is developing to ensure timely delivery of the product. 
 
 Before adopting Portfolio For JIRA you probably had to hold countless meetings with teams to convey the vision and goals of the initiative. Once you switch to Portfolio For JIRA, however, the initiative’s simplified Epics and Stories will automatically provide the information to keep your teams aligned with a single, shared vision and goals. 
