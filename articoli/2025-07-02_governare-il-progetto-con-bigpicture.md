@@ -95,3 +95,10 @@ Lo ricorda anche Bruno Latour, in *La scienza in azione*: nessun sistema tecnico
 BigPicture non è solo un’applicazione potente per la gestione dei progetti. È un’opportunità per interrogarsi su come progettiamo, su cosa intendiamo per controllo, su come costruiamo una lingua comune tra strategia e operatività.
 
 Nel prossimo episodio affronteremo la gestione delle dipendenze tra progetti e l’uso avanzato delle gerarchie strutturate. Perché governare il progetto significa anche sapere leggere la complessità senza esserne travolti.
+
+---
+
+## Pubblicazione
+
+Questo articolo è stato pubblicato su LinkedIn il 2 luglio 2025:  
+[Governare il progetto con BigPicture: visione, metodo, strumenti. Un solo sguardo su tutto.](https://www.linkedin.com/pulse/governare-il-progetto-con-bigpicture-visione-metodo-episodio-bonasia-prvae/?trackingId=HCE0XWBFSdyLsLL%2BhBvPcw%3D%3D)
