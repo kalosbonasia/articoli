@@ -10,4 +10,3 @@
 - [Governare il progetto con BigPicture: coordinare il lavoro in ambienti complessi -- interdipendenze, apprendimento, consapevolezza.](articoli/2025-08-07_governare-il-progetto-con-bigpicture-coordinare-lavoro-ambienti-complessi.md)
 - [Contro l’algoritmo dominante: leggere per pensare](articoli/2025-08-08_contro-l-algoritmo-dominante-leggere-per-pensare.md)
 - [Filosofia della conoscenza e filosofia stoica applicate al project management](articoli/2025-08-09_filosofia-della-conoscenza-e-stoica-project-management.md)
-- [Esempio di articolo](articoli/2022-07-20_esempio-articolo.md)
