@@ -1,17 +1,3 @@
----
-title: "Figure del progetto #2 – La meraviglia come strategia"
-author: "Calogero (Kàlos) Bonasia"
-date: 2025-08-02
-source: "Stultifera Navis"
-tags:
-  - design
-  - meraviglia
-  - ascolto
-  - sostenibilità
-  - intelligenza artificiale
-  - narrazione
----
-
 # Figure del progetto #2 – La meraviglia come strategia
 
 Quando sentiamo parlare di design, pensiamo spesso a qualcosa di visivo, funzionale, magari elegante. Ma dietro ogni progetto ben fatto c’è molto di più: c’è un modo di osservare il mondo, di ascoltare le persone, di capire ciò che serve davvero. In questa conversazione, Frida Riolo ci accompagna dentro il suo lavoro quotidiano, dove la meraviglia, la sostenibilità e persino l’errore diventano strumenti di progetto. Partendo da un’esperienza concreta — la Fiera del Giocattolo di Norimberga — ci invita a guardare al design come a un gesto di attenzione, e forse anche di responsabilità verso il nostro tempo.
@@ -64,12 +50,9 @@ Anche le parole di Frida Riolo vanno in questa direzione. L’ascolto, il fallim
 
 In un tempo in cui il design rischia di diventare un linguaggio decorativo o un acceleratore cieco, questo tipo di sguardo torna ad essere essenziale. Perché, come ci ricordano tanto Fulton Suri quanto Frida Riolo, **osservare con attenzione è già cominciare a cambiare**.
 
----
-
 ## Bibliografia
 
-- *Jane Fulton Suri*, **Thoughtless Acts? Observations on Intuitive Design**. Chronicle Books, 2005.  
-  Una raccolta visiva e riflessiva sul comportamento intuitivo delle persone, base del metodo IDEO per l’osservazione etnografica nel design.
+- *Jane Fulton Suri*, **Thoughtless Acts? Observations on Intuitive Design**. Chronicle Books, 2005.
 
 ---
 
