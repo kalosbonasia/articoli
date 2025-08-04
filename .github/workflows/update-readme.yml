@@ -1,4 +1,9 @@
-name: Aggiorna README con elenco articoli
+      - name: Debug git status e remoti
+        run: |
+          git status
+          git remote -v
+          git branch -vv
+
 
 on:
   push:
