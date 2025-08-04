@@ -1,3 +1,6 @@
+
+# Machines à penser (Couffignal, 1952)
+
 Negli anni passati, in un momento che oggi fatico a collocare con esattezza — forse a Palermo, forse a Urbino — presi in prestito dalla biblioteca un volume che allora mi parve raro, quasi invisibile: *Les machines à penser* di Louis Couffignal, pubblicato nel 1952. Ne trascrissi a mano alcuni passaggi, seguendo un metodo che ancora oggi considero insostituibile: leggere lentamente, annotare a margine, riscrivere su carta.
 
 Oggi ho ritrovato quegli appunti su uno dei miei vecchi quaderni. E ho sentito il bisogno di fissarli in un articolo, non tanto per offrirne una sintesi, quanto come promemoria personale. Per ricordare il momento, il gesto, il metodo.
