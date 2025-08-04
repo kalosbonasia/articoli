@@ -8,18 +8,22 @@ INTRO = """# Raccolta articoli di Kalos
 Indice degli articoli
 """
 
+def estrai_titolo(md_path):
+    with md_path.open(encoding="utf-8") as f:
+        for line in f:
+            if line.strip().startswith("# "):
+                return line.strip("# ").strip()
+    return md_path.stem.replace("-", " ").capitalize()  # fallback
+
 def genera_lista():
-    files = sorted(ARTICOLI_DIR.glob("*.md"))
+    files = sorted(ARTICOLI_DIR.glob("*.md"), reverse=False)  # puoi cambiare in reverse=True se vuoi ordine inverso
     righe = []
     for file in files:
-        nome = file.stem.replace("-", " ")
+        titolo = estrai_titolo(file)
         link = f"articoli/{file.name}"
-        righe.append(f"* [{nome}]({link})")
+        righe.append(f"* [{titolo}]({link})")
     return "\n".join(righe)
 
 def main():
     contenuto = INTRO.strip() + "\n\n" + genera_lista() + "\n"
-    README_PATH.write_text(contenuto, encoding="utf-8")
-
-if __name__ == "__main__":
-    main()
+    R
