@@ -1,6 +1,4 @@
-# CONOSCENZA  
-## Verbale di un consiglio di sistema operativo  
-**Calogero (Kàlos) Bonasia**
+# Verbale di un consiglio di sistema operativo  
 
 _Atto unico in forma documentale, estratto dagli archivi non ufficiali di una rete aziendale._  
 
