@@ -30,4 +30,4 @@ Indice degli articoli
 * [Quando un albero ci ricorda chi siamo](articoli/quando-un-albero-ci-ricorda-chi-siamo.md)
 * [Resilienza senza alibi: dal caos ritualizzato alla competenza collettiva](articoli/resilienza-senza-alibi.md)
 * [Il sapere operativo e il metodo GE Work-Out](articoli/sapere-operativo-e-ge-workout.md)
-* [CONOSCENZA](articoli/verbale-consiglio-operativo.md)
+* [Verbale di un consiglio di sistema operativo](articoli/verbale-consiglio-operativo.md)
