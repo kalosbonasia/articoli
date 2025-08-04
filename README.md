@@ -28,6 +28,7 @@ Indice degli articoli
 * [manuale smarrito senso lavoro](articoli/manuale-smarrito-senso-lavoro.md)
 * [prova](articoli/prova.md)
 * [prova2](articoli/prova2.md)
+* [prova3](articoli/prova3.md)
 * [quando un albero ci ricorda chi siamo](articoli/quando-un-albero-ci-ricorda-chi-siamo.md)
 * [resilienza senza alibi](articoli/resilienza-senza-alibi.md)
 * [verbale consiglio operativo](articoli/verbale-consiglio-operativo.md)
