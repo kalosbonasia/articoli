@@ -27,7 +27,6 @@ Indice degli articoli
 * [Comandavo server in California, ma mangiavo riso a Milano](articoli/machines-a-penser-couffignal.md)
 * [Manuale operativo per chi ha smarrito il senso del lavoro](articoli/manuale-smarrito-senso-lavoro.md)
 * [Ontologia punk. Versioni del reale e sintesi radicali nella progettazione contemporanea](articoli/ontologia-punk.md)
-* [Prova prova prova](articoli/prova.md)
 * [Quando un albero ci ricorda chi siamo](articoli/quando-un-albero-ci-ricorda-chi-siamo.md)
 * [Resilienza senza alibi: dal caos ritualizzato alla competenza collettiva](articoli/resilienza-senza-alibi.md)
 * [titolo AAAAAAAA](articoli/trigger.md)
