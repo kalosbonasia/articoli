@@ -28,6 +28,9 @@ Rileggere oggi quel testo significa andare controcorrente e scegliere la profond
 
 ---
 
+Couffignal non sviluppa un sistema teorico esplicito sull’informalità del pensiero, ma nel suo Les machines à penser mostra grande cautela: non riduce il pensiero umano al solo calcolo logico e ammette che le macchine possono “simulare” solo una parte delle funzioni cognitive, e in modo comunque condizionato dalla struttura e finalità del progettista. Scrive infatti che una macchina è un instrument mental, ma non un être pensant. E insiste sul fatto che ogni automa è costruito secondo finalità umane: il pensiero, in quanto tale, non è imitabile integralmente. Quindi sì, il tuo passaggio è fedele allo spirito del testo, anche se andrebbe temperato per non proiettare troppo sul Couffignal del 1952 concetti sviluppati pienamente solo decenni dopo.
+
+
 **Bibliografia essenziale**
 
 Louis Couffignal, *Les machines à penser*, Paris: Gauthier-Villars, 1952.  
