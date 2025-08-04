@@ -12,9 +12,9 @@ Nel rileggere oggi *Les machines à penser*, si percepisce il bisogno di tornare
 
 Molti mi chiedono: “Ma dove trovavi il tempo per scrivere queste riflessioni?” Lo trovavo sui treni, sugli aerei, sugli autobus, nelle attese. Da ragazzo, avevo preso l’abitudine di scrivere una pagina al giorno, ogni giorno, per anni. Centinaia di quaderni della Pigna, alcuni perduti nei traslochi, altri ancora impolverati nella mia libreria. L’articolo di oggi nasce proprio da alcune di quelle pagine.
 
-Spesso viaggiavo dalla Sicilia a Milano, per lavorare un paio d’ore da una shell SSH, seduto a una scrivania anonima e deprimente, dentro una palazzina “a forma di grattacielo da poveracci, ma con l'assurda pretesa di assomigliare a quelli di Londra”, nel quartiere-periferia di Lorenteggio. 
+Spesso viaggiavo dalla Sicilia a Milano, per lavorare un paio d’ore da una shell SSH, seduto a una scrivania anonima e deprimente, dentro una palazzina “a forma di grattacielo da poveracci, ma con l'assurda pretesa di assomigliare a quelli di Londra”, nel quartiere-periferia di Lorenteggio. 
 
-Avrei potuto fare lo stesso — molto meglio — da casa. Ma le grandi società di consulenza, ancora legate a un’idea di controllo fisico, pretendevano la presenza. Il risultato era un pendolarismo assurdo, economicamente insostenibile, spesso umiliante. Mi veniva riconosciuta, in pratica, una “ciotola di riso”. 
+Avrei potuto fare lo stesso — molto meglio — da casa. Ma le grandi società di consulenza, ancora legate a un’idea di controllo fisico, pretendevano la presenza. Il risultato era un pendolarismo assurdo, economicamente insostenibile, spesso umiliante. Mi veniva riconosciuta, in pratica, una “ciotola di riso”. 
 
 Un compenso minimo per tenere in piedi un’architettura clientelare travestita da efficienza meneghina. Era un teatro post-industriale in cui il corpo doveva stare al posto previsto, qualunque fosse il senso.
 
@@ -24,15 +24,15 @@ Questo tipo di consapevolezza è ciò che manca a buona parte del dibattito pubb
 
 Chi ha avuto modo di consultare *Les machines à penser* lo sa: è un libro difficile da trovare, spesso trascurato, ma fondamentale per capire le radici europee di quella che oggi chiamiamo “intelligenza artificiale”. Non tanto per quello che dice, ma per come lo dice: con misura, con dubbio, con responsabilità. Couffignal non è stato un profilo visionario o un profeta, ma un uomo del suo tempo. E proprio per questo, un interlocutore prezioso per il nostro.
 
-Rileggere oggi quel testo significa compiere un gesto controcorrente: scegliere la profondità invece della prestazione, la cautela invece dell'entusiasmo, il metodo invece della moda. È questo lo spirito con cui inauguro questa serie di articoli dedicati ai pensatori “altri” della cibernetica. Non per nostalgia, ma per necessità.
+Rileggere oggi quel testo significa andare controcorrente e scegliere la profondità invece della prestazione, la cautela invece dell'entusiasmo, il metodo invece della moda. 
 
 ---
 
 **Bibliografia essenziale**
 
-Louis Couffignal, *Les machines à penser*, Paris: Gauthier-Villars, 1952.  
-Dieter Roelstraete (a cura di), *Machines à penser*, Milano: Fondazione Prada, 2018.  
-Abraham Moles, *Théorie de l'information et perception esthétique*, Paris: Flammarion, 1973.  
-Henri Atlan, *Entre le cristal et la fumée*, Paris: Seuil, 1979.  
-Francisco Varela, *Principles of Biological Autonomy*, North Holland, 1979.  
+Louis Couffignal, *Les machines à penser*, Paris: Gauthier-Villars, 1952.  
+Dieter Roelstraete (a cura di), *Machines à penser*, Milano: Fondazione Prada, 2018.  
+Abraham Moles, *Théorie de l'information et perception esthétique*, Paris: Flammarion, 1973.  
+Henri Atlan, *Entre le cristal et la fumée*, Paris: Seuil, 1979.  
+Francisco Varela, *Principles of Biological Autonomy*, North Holland, 1979.  
 Jean-Pierre Dupuy, *Le sacrifice et l'envie. Le libéralisme aux prises avec la justice sociale*, Paris: Calmann-Lévy, 1992.
