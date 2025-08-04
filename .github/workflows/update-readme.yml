@@ -1,9 +1,4 @@
-      - name: Debug git status e remoti
-        run: |
-          git status
-          git remote -v
-          git branch -vv
-
+name: Aggiorna README con elenco articoli
 
 on:
   push:
@@ -27,6 +22,12 @@ jobs:
 
       - name: Esegui script aggiornamento README
         run: python update_readme.py
+
+      - name: Debug git status e remoti
+        run: |
+          git status
+          git remote -v
+          git branch -vv
 
       - name: Commit e push se ci sono modifiche
         run: |
