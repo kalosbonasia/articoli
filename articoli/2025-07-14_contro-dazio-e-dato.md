@@ -11,3 +11,6 @@ La rivoluzione tecnologica non è solo tecnica, ha messo in moto una profonda tr
 In entrambi i casi, ci troviamo di fronte a risposte che non interrogano la trasformazione in atto, ma la negano. Il dazio è il gesto muscolare di un pensiero che ha smarrito il senso dei processi e crede ancora di poter governare il futuro per decreto. Il culto del dato è, al contrario, il riflesso lucido e inquietante di una razionalità senza volto, che alla comprensione profonda preferisce la semplice correlazione, alla cura la mera misura. Entrambe queste posizioni, seppur apparentemente distanti, condividono un unico, radicato presupposto: l’idea che il mondo sia ancora governabile attraverso il controllo. Ma il mondo, oggi, non si lascia più contenere. Scorre e si modula, si replica e si opacizza, oltre ogni argine e ogni pretesa di dominio.
 
 Pensare l’automazione significa allora non rincorrere affannosamente la macchina, ma interrogare ciò che essa ci mostra, sia nella sua trasparenza che nella sua ombra. Essa ci rivela che la produzione non è più un fatto localizzato, ma un processo diffuso. Che il valore non risiede più nell’oggetto in sé, ma nella densità delle relazioni.
+
+...
+
