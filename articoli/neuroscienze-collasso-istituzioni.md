@@ -36,4 +36,4 @@ In questo senso, neuroscienze, memoria storica e regole euristiche convergono. N
 
 Siamo in un passaggio storico in cui le nostre istituzioni non possono più permettersi di funzionare senza capire. Serve una nuova forma di lucidità operativa, capace di riconoscere i propri limiti senza rimuoverli. Serve una nuova arte della continuità, capace di trasformare il sapere in visione, e la visione in processo condiviso.
 
-Non abbiamo bisogno di nuovi strumenti. Abbiamo bisogno di imparare ad ascoltare quelli che abbiamo dimenticato.
+Non abbiamo bisogno di nuovi strumenti. Abbiamo bisogno di ricordare come si usano quelli che abbiamo dimenticato.
