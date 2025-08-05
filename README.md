@@ -26,7 +26,6 @@ Indice degli articoli
 * [Il potere dell’adattabilità umana: lezioni dai Giochi Paralimpici di Parigi](articoli/lezioni-giochi-paralimpici.md)
 * [Comandavo server in California, ma mangiavo riso a Milano](articoli/machines-a-penser-couffignal.md)
 * [Manuale operativo per chi ha smarrito il senso del lavoro](articoli/manuale-smarrito-senso-lavoro.md)
-* [Neuroscienze, collasso istituzionale e comunicazione epistemica](articoli/neuroscienze-collasso-istituzioni.md)
 * [Ontologie insorgenti. Città, codice e complessità oltre l’ordine moderno](articoli/ontologia-insorgente.md)
 * [Ontologia punk. Versioni del reale e sintesi radicali nella progettazione contemporanea](articoli/ontologia-punk.md)
 * [Quando un albero ci ricorda chi siamo](articoli/quando-un-albero-ci-ricorda-chi-siamo.md)
