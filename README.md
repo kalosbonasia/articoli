@@ -22,6 +22,7 @@ Indice degli articoli
 * [Figure del progetto (alpha release) – Uccidere il mostro, senza uccidere il progetto.](articoli/figure-del-progetto-alpha-release-office-monsters.md)
 * [Figure del progetto #1 – Intelligenza sprecata](articoli/figure-del-progetto-uno.md)
 * [IKIGAI ECONOMICS: La folle economia nascosta della conoscenza nelle organizzazioni](articoli/ikigai-economics-la-folle-economia-nascosta.md)
+* [Il sapere negato](articoli/il-sapere-negato.md)
 * [La forma che muta. Identità fluide e resistenza agli stereotipi occidentali](articoli/la-forma-che-muta.md)
 * [Il potere dell’adattabilità umana: lezioni dai Giochi Paralimpici di Parigi](articoli/lezioni-giochi-paralimpici.md)
 * [Comandavo server in California, ma mangiavo riso a Milano](articoli/machines-a-penser-couffignal.md)
