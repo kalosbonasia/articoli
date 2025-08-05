@@ -29,6 +29,7 @@ Indice degli articoli
 * [Manuale operativo per chi ha smarrito il senso del lavoro](articoli/manuale-smarrito-senso-lavoro.md)
 * [Ontologie insorgenti. Città, codice e complessità oltre l’ordine moderno](articoli/ontologia-insorgente.md)
 * [Ontologia punk. Versioni del reale e sintesi radicali nella progettazione contemporanea](articoli/ontologia-punk.md)
+* [Project Portfolio Management: visione, coerenza, direzione](articoli/project-portfolio-management-bigpicture-jira.md)
 * [Quando un albero ci ricorda chi siamo](articoli/quando-un-albero-ci-ricorda-chi-siamo.md)
 * [Resilienza senza alibi: dal caos ritualizzato alla competenza collettiva](articoli/resilienza-senza-alibi.md)
 * [Il sapere operativo e il metodo GE Work-Out](articoli/sapere-operativo-e-ge-workout.md)
