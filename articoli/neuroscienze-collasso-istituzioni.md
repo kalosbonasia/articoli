@@ -1,9 +1,4 @@
----
-title: Neuroscienze, collasso e regole del pollice
-author: Kalos
-date: 2025-08-05
-description: Un’indagine sistemica sul legame tra neuroscienze applicate, crisi istituzionali e tecnologie cognitive vernacolari
----
+# Neuroscienze, collasso e regole del pollice
 
 C’è un momento, nella vita dei sistemi complessi, in cui l’efficienza apparente non basta più. Tutto funziona, eppure nulla si muove. I segnali deboli si accumulano, i margini si assottigliano, le parole d’ordine — innovazione, agilità, data-driven — diventano formule vuote. È il momento in cui il sistema smette di apprendere. E se non impara, regredisce.
 
