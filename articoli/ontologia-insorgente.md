@@ -1,4 +1,4 @@
-# Ontologie insorgenti. Città, codice e complessità oltre l’ordine moderno
+# 2024-12-12 Ontologie insorgenti. Città, codice e complessità oltre l’ordine moderno
 
 Chi ha il diritto di disegnare il mondo? Per secoli l’ontologia è stata lo strumento con cui il potere ha imposto ciò che conta, ciò che esiste, ciò che può essere pensato. Ma oggi, in un’epoca di reti distribuite, tecnologie accessibili e culture insubordinate, possiamo rimettere in discussione le fondamenta stesse dell’ontologia. E possiamo farlo a partire da una domanda più radicale: le ontologie che adottiamo sono davvero scoperte, oppure sono costruite?
 
