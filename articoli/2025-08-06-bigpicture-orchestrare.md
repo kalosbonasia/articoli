@@ -1,4 +1,4 @@
-# BigPicture: orchestrare contesti, non solo progetti
+# 2025-06-11 BigPicture: orchestrare contesti, non solo progetti
 
 Ogni sistema complesso richiede una forma di regia. Non basta avere buone idee: serve un ambiente che ne favorisca l’emersione, strumenti adatti, condizioni condivise. Lo stesso vale per i progetti. Pianificare non significa scrivere una lista di cose da fare: significa creare un ecosistema dove le iniziative possano svilupparsi in modo coordinato, coerente, tracciabile. In questo senso, BigPicture non è solo un’app per la gestione del lavoro. È un ambiente per progettare ambienti.
 
