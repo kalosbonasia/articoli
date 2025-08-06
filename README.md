@@ -11,6 +11,7 @@ Indice degli articoli
 * [Perché Power BI non è la risposta: una posizione solida su base documentata](articoli/2025-08-03_perche-powerbi-non-e-la-risposta.md)
 * [Governare il progetto con BigPicture: visione, metodo, strumenti. Controllare il caos in ambienti complessi.](articoli/2025-08-04_governare-il-progetto-con-bigpicture-controllare-il-caos.md)
 * [Governare il progetto con BigPicture: visione, metodo, strumenti a disposizione del project manager, traduttore tra strategia e tattica.](articoli/2025-08-05_governare-il-progetto-con-bigpicture-traduttore-strategia-tattica.md)
+* [BigPicture: orchestrare contesti, non solo progetti](articoli/2025-08-06-bigpicture-orchestrare.md)
 * [Governare il progetto con BigPicture: la stima come forma di pensiero operativo](articoli/2025-08-06_governare-il-progetto-con-bigpicture-stima-pensiero-operativo.md)
 * [Governare il progetto con BigPicture: coordinare il lavoro in ambienti complessi -- interdipendenze, apprendimento, consapevolezza.](articoli/2025-08-07_governare-il-progetto-con-bigpicture-coordinare-lavoro-ambienti-complessi.md)
 * [Contro l’algoritmo dominante: leggere per pensare](articoli/2025-08-08_contro-l-algoritmo-dominante-leggere-per-pensare.md)
