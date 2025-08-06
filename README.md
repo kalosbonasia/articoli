@@ -2,6 +2,7 @@
 
 Indice degli articoli
 
+* [2024-11-23 Quando un albero ci ricorda chi siamo](articoli/quando-un-albero-ci-ricorda-chi-siamo.md)
 * [2024-12-11 Il progetto non scritto: come si perde valore quando si tace](articoli/2025-07-17_progetto-non-scritto.md)
 * [2024-12-12 Ontologie insorgenti. Città, codice e complessità oltre l’ordine moderno](articoli/ontologia-insorgente.md)
 * [2025-01-12 Manuale operativo per chi ha smarrito il senso del lavoro](articoli/manuale-smarrito-senso-lavoro.md)
@@ -33,6 +34,5 @@ Indice degli articoli
 * [Perché Power BI non è la risposta: una posizione solida su base documentata](articoli/2025-08-03_perche-powerbi-non-e-la-risposta.md)
 * [Process Intelligence: dal codice alla forma, dal controllo alla conoscenza](articoli/2025-07-18_process-intelligence.md)
 * [Project Portfolio Management: visione, coerenza, direzione](articoli/project-portfolio-management-bigpicture-jira.md)
-* [Quando un albero ci ricorda chi siamo](articoli/quando-un-albero-ci-ricorda-chi-siamo.md)
 * [Resilienza senza alibi: dal caos ritualizzato alla competenza collettiva](articoli/resilienza-senza-alibi.md)
 * [Verbale di un consiglio di sistema operativo](articoli/verbale-consiglio-operativo.md)
