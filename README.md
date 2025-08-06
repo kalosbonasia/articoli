@@ -4,6 +4,7 @@ Indice degli articoli
 
 * [2024-12-11 Il progetto non scritto: come si perde valore quando si tace](articoli/2025-07-17_progetto-non-scritto.md)
 * [2024-12-12 Ontologie insorgenti. Città, codice e complessità oltre l’ordine moderno](articoli/ontologia-insorgente.md)
+* [2025-01-12 Manuale operativo per chi ha smarrito il senso del lavoro](articoli/manuale-smarrito-senso-lavoro.md)
 * [2025-06-11 BigPicture: orchestrare contesti, non solo progetti](articoli/2025-08-06-bigpicture-orchestrare.md)
 * [2025-06-19 Credere, delegare, automatizzare](articoli/credere-delegare-automatizzare.md)
 * [Archivio dei concetti estinti (o morenti) in azienda](articoli/archivio-parole-smarrite.md)
@@ -28,7 +29,6 @@ Indice degli articoli
 * [Il sapere negato](articoli/il-sapere-negato.md)
 * [Il sapere operativo e il metodo GE Work-Out](articoli/sapere-operativo-e-ge-workout.md)
 * [La forma che muta. Identità fluide e resistenza agli stereotipi occidentali](articoli/la-forma-che-muta.md)
-* [Manuale operativo per chi ha smarrito il senso del lavoro](articoli/manuale-smarrito-senso-lavoro.md)
 * [Ontologia punk. Versioni del reale e sintesi radicali nella progettazione contemporanea](articoli/ontologia-punk.md)
 * [Perché Power BI non è la risposta: una posizione solida su base documentata](articoli/2025-08-03_perche-powerbi-non-e-la-risposta.md)
 * [Process Intelligence: dal codice alla forma, dal controllo alla conoscenza](articoli/2025-07-18_process-intelligence.md)
