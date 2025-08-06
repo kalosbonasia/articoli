@@ -1,4 +1,4 @@
-# Quando un albero ci ricorda chi siamo
+# 2024-11-23 Quando un albero ci ricorda chi siamo
 
 Nel libro *Memorie di una Cipressa*, Dionisio Pratelli affida a un albero il compito di raccontare la memoria collettiva di una Toscana contadina. Un’opera poetica e sobria che interroga il lettore sul senso del tempo, del linguaggio e del legame con la terra che ci ha preceduti.
 
