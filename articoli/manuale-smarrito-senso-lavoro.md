@@ -1,4 +1,4 @@
-# Manuale operativo per chi ha smarrito il senso del lavoro  
+# 2025-01-12 Manuale operativo per chi ha smarrito il senso del lavoro  
 
 _In **La création de connaissance par les managers**, Paul Beaulieu e Michel Kalika demoliscono la visione riduzionista del management come semplice esecuzione di procedure o applicazione di best practice. Il manager, scrivono, è innanzitutto un agente epistemico: crea, seleziona, struttura sapere in contesti operativi instabili. La conoscenza non precede l’azione, ma la attraversa. In ambienti dove il lavoro si frammenta in rituali pseudo-agili e documenti autoreferenziali, questo libro propone una tesi radicale: il manager è responsabile del senso, non solo della delivery. Dove si smette di creare conoscenza, l’organizzazione si spegne. Non crolla: si svuota. E non se ne accorge._  
 
