@@ -4,7 +4,7 @@ Indice degli articoli
 
 * [Contro il dazio e contro il dato: per un’ecologia europea dell’automazione](articoli/2025-07-14_contro-dazio-e-dato.md)
 * [Epistemologie dell’integrazione profonda](articoli/2025-07-16_epistemologie-integrazione.md)
-* [Il progetto non scritto: come si perde valore quando si tace](articoli/2025-07-17_progetto-non-scritto.md)
+* [2024-12-11 Il progetto non scritto: come si perde valore quando si tace](articoli/2025-07-17_progetto-non-scritto.md)
 * [Process Intelligence: dal codice alla forma, dal controllo alla conoscenza](articoli/2025-07-18_process-intelligence.md)
 * [Il lavoro delle macchine, il destino dell’uomo — Automazione, potere e disuguaglianza: perché serve una nuova regia del valore](articoli/2025-07-19_lavoro-macchine-e-destino.md)
 * [Governare il progetto con BigPicture: visione, metodo, strumenti. Un solo sguardo su tutto.](articoli/2025-08-02_governare-il-progetto-con-bigpicture.md)
