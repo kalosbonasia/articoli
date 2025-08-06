@@ -22,12 +22,14 @@ def estrai_titolo(md_path):
     return md_path.stem.replace("-", " ").capitalize()
 
 def genera_lista():
-    files = sorted(ARTICOLI_DIR.glob("*.md"))
-    righe = []
-    for file in files:
+    articoli = []
+    for file in ARTICOLI_DIR.glob("*.md"):
         titolo = estrai_titolo(file)
-        link = f"articoli/{file.name}"
-        righe.append(f"* [{titolo}]({link})")
+        articoli.append((titolo.lower(), titolo, file.name))  # chiave di ordinamento = titolo minuscolo
+
+    articoli.sort()  # ordina per il primo elemento della tupla, cioè il titolo in minuscolo
+
+    righe = [f"* [{titolo}]({ARTICOLI_DIR / filename})" for _, titolo, filename in articoli]
     return "\n".join(righe)
 
 def main():
