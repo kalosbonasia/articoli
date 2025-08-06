@@ -5,7 +5,7 @@ README_PATH = Path("README.md")
 
 INTRO = """# Raccolta articoli di Kalos
 
-Indice degli articoli
+Indice degli articoli numerato
 """
 
 def estrai_titolo(md_path):
@@ -25,11 +25,14 @@ def genera_lista():
     articoli = []
     for file in ARTICOLI_DIR.glob("*.md"):
         titolo = estrai_titolo(file)
-        articoli.append((titolo.lower(), titolo, file.name))  # chiave di ordinamento = titolo minuscolo
+        articoli.append((titolo.lower(), titolo, file.name))
 
-    articoli.sort()  # ordina per il primo elemento della tupla, cioè il titolo in minuscolo
+    articoli.sort()  # ordina alfabeticamente per titolo (case-insensitive)
 
-    righe = [f"* [{titolo}]({ARTICOLI_DIR / filename})" for _, titolo, filename in articoli]
+    righe = [
+        f"{i + 1}. [{titolo}]({ARTICOLI_DIR / filename})"
+        for i, (_, titolo, filename) in enumerate(articoli)
+    ]
     return "\n".join(righe)
 
 def main():
