@@ -1,4 +1,4 @@
-# Il progetto non scritto: come si perde valore quando si tace
+# 2024-12-11 Il progetto non scritto: come si perde valore quando si tace
 
 In ambienti dove le priorità si ribaltano a ogni sprint e le risorse cambiano posto prima di sedimentare, la vera differenza non la fa l’ennesimo badge sul curriculum, ma la mano di chi sa fissare i fatti sulla pagina. Scrivere bene significa dare forma alle decisioni, assegnare responsabilità, rendere intelligibile il ragionamento che le sostiene. È ciò che evita di rifare domani ciò che si era già deciso ieri. In un progetto vivo, l’abilità di stendere una nota chiara vale più di una collezione di certificazioni: perché, quando il framework si inceppa, è la parola precisa che mantiene la rotta, non il titolo incorniciato.
 
