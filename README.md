@@ -19,7 +19,7 @@ Indice degli articoli
 * [Archivio dei concetti estinti (o morenti) in azienda](articoli/archivio-parole-smarrite.md)
 * [BigPicture: governare la struttura, comprendere la complessità](articoli/bigpicture-governare-struttura.md)
 * [Come se nulla fosse](articoli/come-se-nulla-fosse.md)
-* [Credere, delegare, automatizzare](articoli/credere-delegare-automatizzare.md)
+* [2025-06-19 Credere, delegare, automatizzare](articoli/credere-delegare-automatizzare.md)
 * [Figure del progetto #2 – La meraviglia come strategia](articoli/figure-del-progetto-2-la-meraviglia-come-strategia.md)
 * [Figure del progetto (alpha release) – Uccidere il mostro, senza uccidere il progetto.](articoli/figure-del-progetto-alpha-release-office-monsters.md)
 * [Figure del progetto #1 – Intelligenza sprecata](articoli/figure-del-progetto-uno.md)
