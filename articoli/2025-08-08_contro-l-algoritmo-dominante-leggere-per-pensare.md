@@ -1,4 +1,4 @@
-# Contro l’algoritmo dominante: leggere per pensare
+# 2025-05-23 Contro l’algoritmo dominante: leggere per pensare
 
 LinkedIn oggi è un bazar di selfie con badge, palchi vuoti e slogan che promettono l’onnipotenza in dieci step. 
 
