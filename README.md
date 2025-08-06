@@ -17,6 +17,7 @@ Indice degli articoli
 * [Contro l’algoritmo dominante: leggere per pensare](articoli/2025-08-08_contro-l-algoritmo-dominante-leggere-per-pensare.md)
 * [Filosofia della conoscenza e filosofia stoica applicate al project management](articoli/2025-08-09_filosofia-della-conoscenza-e-stoica-project-management.md)
 * [Archivio dei concetti estinti (o morenti) in azienda](articoli/archivio-parole-smarrite.md)
+* [BigPicture: governare la struttura, comprendere la complessità](articoli/bigpicture-governare-struttura.md)
 * [Come se nulla fosse](articoli/come-se-nulla-fosse.md)
 * [Credere, delegare, automatizzare](articoli/credere-delegare-automatizzare.md)
 * [Figure del progetto #2 – La meraviglia come strategia](articoli/figure-del-progetto-2-la-meraviglia-come-strategia.md)
