@@ -1,4 +1,4 @@
-# Ontologia punk. Versioni del reale e sintesi radicali nella progettazione contemporanea
+# 2025-08-03 Ontologia punk. Versioni del reale e sintesi radicali nella progettazione contemporanea
 
 Il reale non è un dato. È una versione. E solo decidendo quali versioni consideriamo stabili possiamo dire di avere una visione. E, forse, un mondo. L’ontologia, in questo senso, non è una branca della filosofia: è una pratica collettiva e quotidiana. Si manifesta nei modi in cui decidiamo cosa è importante, cosa ignoriamo, cosa rendiamo visibile. Come nelle comunità open source, dove ogni contributo è negoziato pubblicamente e ogni scelta è reversibile, anche nella vita reale esistono meccanismi di selezione, approvazione, conflitto.
 
