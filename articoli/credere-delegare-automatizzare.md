@@ -1,4 +1,4 @@
-# Credere, delegare, automatizzare  
+# 2025-06-19 Credere, delegare, automatizzare  
 
 ---
 
