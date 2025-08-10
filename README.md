@@ -38,4 +38,5 @@ Indice degli articoli numerato
 34. [Process Intelligence: dal codice alla forma, dal controllo alla conoscenza](articoli/2025-07-18_process-intelligence.md)
 35. [Project Portfolio Management: visione, coerenza, direzione](articoli/project-portfolio-management-bigpicture-jira.md)
 36. [Resilienza senza alibi: dal caos ritualizzato alla competenza collettiva](articoli/resilienza-senza-alibi.md)
-37. [Verbale di un consiglio di sistema operativo](articoli/verbale-consiglio-operativo.md)
+37. [Ritmi di sviluppo software: una prospettiva cinese per il management dei progetti IT](articoli/2025-08-10-software-development-rhythms.md)
+38. [Verbale di un consiglio di sistema operativo](articoli/verbale-consiglio-operativo.md)
