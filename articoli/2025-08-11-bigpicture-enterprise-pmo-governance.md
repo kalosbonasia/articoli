@@ -54,9 +54,3 @@ Se invece la guida qualcuno che ha imparato sul campo — e che nel 2014 ha intr
 ## Conclusione
 
 BigPicture Enterprise può essere un alleato formidabile per un PMO, ma **solo se integrato in un disegno di governance chiaro**. Richiede metodo, visione e capacità di orchestrare diversi livelli di complessità. In mani esperte, può portare un’organizzazione dal monitoraggio passivo al governo proattivo dei progetti, programmi e portafogli.
-
----
-
-**Consiglio di lettura**  
-*Project Management: Strategia, organizzazione e controllo* – Antonio Borghesi, Andrea Campedelli.  
-Un testo italiano che affronta il PM come disciplina strategica, perfetto per comprendere il contesto in cui strumenti come BigPicture possono fare davvero la differenza.
