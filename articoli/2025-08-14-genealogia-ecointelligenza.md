@@ -12,6 +12,10 @@ Con gli studi di Nost & Colven (2022) e Brevini (2024), l’ecointelligenza si r
 
 L’ecointelligenza diventa oggi posta in gioco nella contesa tra architetture cognitive globali. Il modello statunitense centralizza sapere e governance computazionale sotto logiche accelerazioniste. L’approccio britannico neutralizza il discorso etico. Il caso israeliano rende esplicita la connessione tra IA, sorveglianza e colonialismo. Questi modelli convergono nella progettazione di ambienti cognitivi incompatibili con una reale ecologia sistemica.
 
+Questa riflessione non può eludere i modelli concreti in cui l’ecointelligenza viene neutralizzata o completamente sovvertita. Il caso israeliano è emblematico: qui l’intelligenza artificiale viene sviluppata come estensione dell’apparato militare, testata sul campo nella gestione predittiva dei territori occupati e delle popolazioni palestinesi, poi esportata come soluzione globale per il controllo urbano, la sicurezza di frontiera, la gestione algoritmica del rischio. L’IA, in questo contesto, non è strumento cognitivo ma dispositivo coloniale. Non produce ecologia ma segmentazione, non apre sistemi ma li chiude. L’uso dell’algoritmo diventa forma di guerra. Parlare di intelligenza “ecologica” in un tale quadro non è solo improprio: è un’aberrazione semantica.
+
+Questi sistemi, per quanto formalmente sofisticati, si collocano fuori da ogni prospettiva di giustizia ambientale, epistemica e sociale. Rivelano la funzione della tecnologia quando è disaccoppiata da ogni tensione etica: sorvegliare, segregare, ottimizzare.
+
 ## Un caso esemplare: IA ambientale e sorveglianza urbana
 
 In molte città europee, l’uso dell’IA per il monitoraggio ambientale è presentato come pratica sostenibile. In realtà, si fonda su piattaforme proprietarie, filiere opache e logiche estrattive. L’intelligenza distribuita viene ridotta a strumento di governo invisibile.
