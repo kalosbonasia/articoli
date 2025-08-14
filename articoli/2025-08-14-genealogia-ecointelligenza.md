@@ -2,7 +2,7 @@
 
 Il concetto di ecointelligenza non nasce da un ambito disciplinare specifico. È emerso, piuttosto, come campo di convergenza fra psicologia cognitiva, ecologia politica, epistemologia postdigitale e critica delle tecnologie.
 
-Il mio percorso di ricerca riguardo questo è una traiettoria non lineare, scandita da tre transizioni concettuali: dall’empatia cognitiva alla critica sistemica, fino alla geopolitica dell’intelligenza. Ogni passaggio ha richiesto un cambiamento nei presupposti epistemologici e nelle posture operative.
+Il mio percorso di ricerca al riguardo è una traiettoria non lineare, scandita da tre transizioni concettuali: dall’empatia cognitiva alla critica sistemica, fino alla geopolitica dell’intelligenza. Ogni passaggio ha richiesto un cambiamento nei presupposti epistemologici e nelle posture operative.
 
 La prima fase ha riguardato lo studio delle cosiddette “intelligenze ecologiche”. Ho iniziato da Gardner (*Frames of Mind*, 1983), dove ho trovato il concetto di *naturalist intelligence* una facoltà di classificazione e riconoscimento dei pattern biologici. Una competenza adattiva, oggi marginalizzata nei modelli educativi orientati alla performance.
 
@@ -10,11 +10,11 @@ Con Goleman (*Ecological Intelligence*, 2010) ho ampliato la prospettiva, introd
 
 Con gli studi di Nost & Colven (2022) e Brevini (2024), l’ecointelligenza si rivela funzione sistemica, non qualità soggettiva. L’IA è embedded in cicli ecologici distruttivi. Va pensata come infrastruttura estrattiva, non come entità cognitiva astratta. Il lessico della sostenibilità, in questo contesto, funziona come copertura.
 
-L’ecointelligenza diventa oggi posta in gioco nella contesa tra architetture cognitive globali. Il modello statunitense centralizza sapere e governance computazionale sotto logiche accelerazioniste. L’approccio britannico neutralizza il discorso etico. Il caso israeliano rende esplicita la connessione tra IA, sorveglianza e colonialismo. Questi modelli convergono nella progettazione di ambienti cognitivi incompatibili con una reale ecologia sistemica.
+L’ecointelligenza diventa oggi posta in gioco nella contesa tra architetture cognitive globali. Il modello statunitense centralizza sapere e governance computazionale sotto logiche accelerazioniste. L’approccio britannico neutralizza il discorso etico. Il caso israeliano rende esplicita la connessione tra IA, sorveglianza e colonialismo.
 
-Questa riflessione non può eludere i modelli concreti in cui l’ecointelligenza viene neutralizzata o completamente sovvertita. Il caso israeliano è emblematico: qui l’intelligenza artificiale viene sviluppata come estensione dell’apparato militare, testata sul campo nella gestione predittiva dei territori occupati e delle popolazioni palestinesi, poi esportata come soluzione globale per il controllo urbano, la sicurezza di frontiera, la gestione algoritmica del rischio. L’IA, in questo contesto, non è strumento cognitivo ma dispositivo coloniale. Non produce ecologia ma segmentazione, non apre sistemi ma li chiude. L’uso dell’algoritmo diventa forma di guerra. Parlare di intelligenza “ecologica” in un tale quadro non è solo improprio: è un’aberrazione semantica.
+Questa riflessione non può eludere i modelli concreti in cui l’ecointelligenza viene neutralizzata o completamente sovvertita. Il caso israeliano è emblematico: l’intelligenza artificiale viene sviluppata come estensione dell’apparato militare, testata sul campo nella gestione predittiva dei territori occupati e delle popolazioni palestinesi, poi esportata come tecnologia per il controllo urbano e la sicurezza di frontiera. In questo contesto, l’IA non è uno strumento cognitivo ma un dispositivo coloniale: non produce ecologia, ma segmentazione; non apre sistemi, ma li chiude. L’uso dell’algoritmo diventa forma di guerra. Parlare di intelligenza “ecologica” in un tale quadro non è solo improprio: è una distorsione semantica.
 
-Questi sistemi, per quanto formalmente sofisticati, si collocano fuori da ogni prospettiva di giustizia ambientale, epistemica e sociale. Rivelano la funzione della tecnologia quando è disaccoppiata da ogni tensione etica: sorvegliare, segregare, ottimizzare.
+Questi modelli convergono nella progettazione di ambienti cognitivi incompatibili con una reale ecologia sistemica.
 
 ## Un caso esemplare: IA ambientale e sorveglianza urbana
 
@@ -22,6 +22,6 @@ In molte città europee, l’uso dell’IA per il monitoraggio ambientale è pre
 
 Questa analisi è fondata su una comparazione critica tra fonti teoriche, documenti di policy e pratiche emergenti. La nozione di ecointelligenza viene trattata come campo semantico aperto, utile per interrogare i presupposti epistemologici dei sistemi cognitivi in cui siamo immersi.
 
-Per il momento quindi spiego cos'è l'ecointelligenza indicandola come la capacità di leggere e modificare ambienti cognitivi ibridi, agendo dentro i vincoli sistemici senza ricorrere a scorciatoie tecnosoluzioniste. Non si tratta di “essere sostenibili”, ma di accettare le contraddizioni e trasformarle in campo di azione.
+Per il momento quindi spiego cos’è l’ecointelligenza indicandola come la capacità di leggere e modificare ambienti cognitivi ibridi, agendo dentro i vincoli sistemici senza ricorrere a scorciatoie tecnosoluzioniste. Non si tratta di “essere sostenibili”, ma di accettare le contraddizioni e trasformarle in campo di azione.
 
 Un bel testo da leggere sul tema è quello di Felix Guattari, dal titolo *Le tre ecologie* (Feltrinelli, 1990). Una lettura necessaria, in cui l’ecologia mentale, sociale e ambientale si intrecciano come dimensioni inseparabili della soggettività contemporanea.
