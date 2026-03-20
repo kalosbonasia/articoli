@@ -16,6 +16,7 @@ _Nessun articolo ancora pubblicato._
 - [Sistema operativo Linux – Installazione SuSE](ElettronicaFlash/elettronicaflash_2004-04_sistema-operativo-linux-installazione-suse.md)
 - [Sistema operativo Linux – seconda parte](ElettronicaFlash/elettronicaflash_2004-04_sistema-operativo-linux-seconda-parte.md)
 - [Sistema operativo Linux – terza parte: Gnome Predict](ElettronicaFlash/elettronicaflash_2004-05_sistema-operativo-linux-terza-parte-gnome-predict.md)
+- [Sistema operativo Linux – quarta parte: Protocollo AX.25](ElettronicaFlash/elettronicaflash_2004-06_sistema-operativo-linux-quarta-parte-protocollo-ax25.md)
 
 ## LinuxDay
 
