@@ -19,6 +19,7 @@ _Nessun articolo ancora pubblicato._
 - [Sistema operativo Linux – quarta parte: Protocollo AX.25](ElettronicaFlash/elettronicaflash_2004-06_sistema-operativo-linux-quarta-parte-protocollo-ax25.md)
 - [Sistema operativo Linux – quinta parte: Linradio!](ElettronicaFlash/elettronicaflash_2004-09_sistema-operativo-linux-quinta-parte-linradio.md)
 - [Costruire una rete wireless con Linux – settima parte: S.O. Linux](ElettronicaFlash/elettronicaflash_2004-10_costruire-una-rete-wireless-con-linux.md)
+- [Sistema operativo Linux – ottava parte: Radio Open Source](ElettronicaFlash/elettronicaflash_2004-11_sistema-operativo-linux-ottava-parte-radio-open-source.md)
 
 ## LinuxDay
 
