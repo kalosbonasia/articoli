@@ -15,6 +15,7 @@ _Nessun articolo ancora pubblicato._
 - [Sistema operativo Linux – 1. Introduzione](ElettronicaFlash/elettronicaflash_2004-03_sistema-operativo-linux-introduzione.md)
 - [Sistema operativo Linux – Installazione SuSE](ElettronicaFlash/elettronicaflash_2004-04_sistema-operativo-linux-installazione-suse.md)
 - [Sistema operativo Linux – seconda parte](ElettronicaFlash/elettronicaflash_2004-04_sistema-operativo-linux-seconda-parte.md)
+- [Sistema operativo Linux – terza parte: Gnome Predict](ElettronicaFlash/elettronicaflash_2004-05_sistema-operativo-linux-terza-parte-gnome-predict.md)
 
 ## LinuxDay
 
