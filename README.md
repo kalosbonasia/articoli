@@ -20,6 +20,7 @@ _Nessun articolo ancora pubblicato._
 - [Sistema operativo Linux – quinta parte: Linradio!](ElettronicaFlash/elettronicaflash_2004-09_sistema-operativo-linux-quinta-parte-linradio.md)
 - [Costruire una rete wireless con Linux – settima parte: S.O. Linux](ElettronicaFlash/elettronicaflash_2004-10_costruire-una-rete-wireless-con-linux.md)
 - [Sistema operativo Linux – ottava parte: Radio Open Source](ElettronicaFlash/elettronicaflash_2004-11_sistema-operativo-linux-ottava-parte-radio-open-source.md)
+- [Sistema operativo Linux – nona parte: Aggregazione di banda con Linux](ElettronicaFlash/elettronicaflash_2005-01_sistema-operativo-linux-nona-parte-aggregazione-di-banda.md)
 
 ## LinuxDay
 
