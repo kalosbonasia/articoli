@@ -13,6 +13,7 @@ _Nessun articolo ancora pubblicato._
 ## ElettronicaFlash
 
 - [Sistema operativo Linux – 1. Introduzione](ElettronicaFlash/elettronicaflash_2004-03_sistema-operativo-linux-introduzione.md)
+- [Sistema operativo Linux – Installazione SuSE](ElettronicaFlash/elettronicaflash_2004-04_sistema-operativo-linux-installazione-suse.md)
 
 ## LinuxDay
 
