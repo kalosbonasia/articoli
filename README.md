@@ -33,7 +33,7 @@ _Nessun articolo ancora pubblicato._
 
 ## medium
 
-_Nessun articolo ancora pubblicato._
+- [temp](medium/temp.md)
 
 ## RadioKit
 
