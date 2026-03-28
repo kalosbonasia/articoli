@@ -49,7 +49,7 @@ _Nessun articolo ancora pubblicato._
 
 ## StultiferaNavis
 
-_Nessun articolo ancora pubblicato._
+- [Tre quadrati e una congiunzione: pensare per immagini, comprendere per intero](StultiferaNavis/stultiferanavis_2026-03_tre-quadrati-e-una-congiunzione.md)
 
 ## UbuntuMagazine
 
