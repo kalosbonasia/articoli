@@ -33,9 +33,6 @@ _Nessun articolo ancora pubblicato._
 
 ## medium
 
-- [Dematerialization](medium/Dematerialization)
-- [thirty](thirty)
-- [clicks](clicks.md)
 - [temp](medium/temp.md)
 
 ## RadioKit
