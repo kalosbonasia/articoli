@@ -34,7 +34,6 @@ _Nessun articolo ancora pubblicato._
 ## medium
 
 - [Dematerialization: thirty clicks and a hundred and fifty fates](medium/medium_2026-03_dematerialization-thirty-clicks-and-a-hundred-and-fifty-fates.md)
-- [temp](medium/temp.md)
 
 ## RadioKit
 
