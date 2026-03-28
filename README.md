@@ -49,6 +49,7 @@ _Nessun articolo ancora pubblicato._
 
 ## StultiferaNavis
 
+- [Intelligenti pauca](StultiferaNavis/2026_03_Intelligenti_pauca.md)
 - [Tre quadrati e una congiunzione: pensare per immagini, comprendere per intero](StultiferaNavis/stultiferanavis_2026-03_tre-quadrati-e-una-congiunzione.md)
 
 ## UbuntuMagazine
