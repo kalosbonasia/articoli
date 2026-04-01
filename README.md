@@ -50,6 +50,7 @@ _Nessun articolo ancora pubblicato._
 ## StultiferaNavis
 
 - [Intelligenti pauca](StultiferaNavis/2026_03_Intelligenti_pauca.md)
+- [Defezione digitale e controllo algoritmico: filosofia della resistenza ai social network](StultiferaNavis/defezione_digitale_linkedin_leave.md)
 - [Strumenti di percezione e strumenti di controllo nella governance dei progetti](StultiferaNavis/strumenti_percezione_parte_1.md)
 - [Strumenti di percezione e strumenti di controllo nella governance dei progetti (seconda parte)](StultiferaNavis/strumenti_percezione_parte_due.md)
 - [Strumenti di percezione e strumenti di controllo nella governance dei progetti (terza e ultima parte)](StultiferaNavis/strumenti_percezione_parte_tre.md)
