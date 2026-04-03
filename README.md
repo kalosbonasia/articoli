@@ -52,6 +52,7 @@ _Nessun articolo ancora pubblicato._
 - [Intelligenti pauca](StultiferaNavis/2026_03_Intelligenti_pauca.md)
 - [Defezione digitale e controllo algoritmico: filosofia della resistenza ai social network](StultiferaNavis/defezione_digitale_linkedin_leave.md)
 - [Figure del progetto #2 – La meraviglia come strategia](StultiferaNavis/figure_progetto_2_frida_riolo.md)
+- [Quando un albero ci ricorda chi siamo](StultiferaNavis/memorie_una_cipressa.md)
 - [Il progetto non scritto: come si perde valore quando si tace](StultiferaNavis/progetto_non_scritto.md)
 - [Strumenti di percezione e strumenti di controllo nella governance dei progetti](StultiferaNavis/strumenti_percezione_parte_1.md)
 - [Strumenti di percezione e strumenti di controllo nella governance dei progetti (seconda parte)](StultiferaNavis/strumenti_percezione_parte_due.md)
